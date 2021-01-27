@@ -6,10 +6,15 @@ h1{
     padding: 20px;
 }
 
-.navbar {
+.nav-2{
+    background-color: rgb(167, 167, 167);
+    padding: 15px;
     margin-left: 11px;
     margin-right: 11px;
-    background-color: rgb(114, 127, 128);
-    text-align: center;
+}
 
+.btn{
+    background-color: rgb(167, 167, 167);
+    color:  rgb(7, 102, 102);
+    
 }
