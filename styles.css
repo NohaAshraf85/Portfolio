@@ -19,3 +19,15 @@ h1{
     border: rgb(7, 102, 102) solid 1px;
 
 }   
+
+.nav-3{
+    background-color: teal;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.nav-item{
+    color: white;
+}
