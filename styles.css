@@ -39,3 +39,11 @@ h1{
     padding: 30px;
 }
 
+.footer-copyright{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
