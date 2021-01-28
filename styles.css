@@ -4,12 +4,12 @@ body{
 
 h1{
     font-size: 26px;
-    /* background-color:grey; */
+    background-color: white;
     text-align: center;
     color: black;
     padding: 15px;
-    margin-top: 10px;
-    border-top:  #03506f solid 2px;
+    /* margin-top: 10px;
+    border-top:  #03506f solid 2px; */
     border-bottom:  #03506f solid 2px;
 }
 
@@ -30,7 +30,12 @@ h1{
 }
 
 .container{
-    background-color: whitesmoke;
+    /* background-color: whitesmoke; */
+    padding: 30px;
+}
+
+.aboutmecontainer{
+    background-color: white;
     padding: 30px;
 }
 
