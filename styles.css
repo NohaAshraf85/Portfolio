@@ -1,5 +1,6 @@
 /* universal html */
 /* CSS for all html files body */
+
 body{
     background-image: url("./Assets/Images/pexels-sl-wong-1023953.jpg");
 }
@@ -8,7 +9,7 @@ body{
 /* h1 for all htmls */
 h1{
     font-size: 26px;
-    /* background-color: whitesmoke; */
+    background-color: whitesmoke;
     text-align: center;
     color: black;
     padding: 15px;
@@ -87,11 +88,11 @@ h1{
     background-color: grey;
     color: white;
     /* padding: 15px; */
-    text-align: center;
+    /* text-align: center;
     position: fixed;
     margin-bottom: 0;
     width: 100%;
-} */
+} */ 
 
 .btn{
     background-color: #c19277;
@@ -112,7 +113,34 @@ h1{
 }
 
 
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
 
+.fa .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
 
+.fa .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+.fa .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+.fa .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
 
 
