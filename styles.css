@@ -49,14 +49,9 @@ h1{
 /* CSS for the portfolio page */
 /* card CSS in the portfolio page */
 .card{
-    /* border-radius: 25px 25px 0px 0px; */
     margin-top: 12px;
     margin-bottom: 12px;
 }
-
-/* .first-card{
-    margin-top: 10px;
-} */
 
 /* cards in the body of the page */
 .card-body{
