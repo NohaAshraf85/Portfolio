@@ -1,0 +1,88 @@
+/* universal html */
+/* CSS for all html files body */
+
+body{
+    background-image: url("./Assets/Images/pexels-sl-wong-1023953.jpg");
+    background-size: cover;    
+}
+
+
+/* h1 for all htmls */
+h1{
+    font-size: 26px;
+    /* background-color: whitesmoke; */
+    text-align: center;
+    color: black;
+    padding: 15px;
+    margin-bottom: 30px;
+    border-bottom:  #c19277 solid 2px;
+}
+
+/* navbar for all html files */
+.navbar{
+    background-color: #c19277 !important;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+/* container for the main body of all pagess */
+.container{
+    background-color: whitesmoke;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+/* CSS for the portfolio page */
+/* card CSS in the portfolio page */
+.card{
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+/* cards in the body of the page */
+.card-body{
+    background-color: #557174;
+    color: white;
+}
+
+.card-img-top{
+    height: 250px;
+}
+
+
+/* button in the contact page */
+.btn{
+    background-color: #c19277;
+    border: #c19277;
+    color: white;
+}
+
+/* footer for all html pages */
+.footer .container-fluid{
+    background-color: #c19277 ;
+    margin-bottom: 0px;
+    text-align: center;
+    color: white;
+    width: 100%;
+    padding: 20px;
+}
+
+/* content in the about me page */
+.biotext{
+    padding: 10px;
+}
+
+
+
+
+
